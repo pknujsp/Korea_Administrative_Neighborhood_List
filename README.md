@@ -78,4 +78,5 @@
 ## 업데이트
 
 - **[2024.01.07](https://github.com/pknujsp/Korea_Administrative_Neighborhood_List/releases/tag/2024-01-07)**: 첫번째 버전
+- **[2025.05.16](https://github.com/pknujsp/Korea_Administrative_Neighborhood_List/releases/tag/2025-05-16)**: 두번째 버전
 
